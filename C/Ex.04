@@ -1,0 +1,39 @@
+EXERCÍCIO 04 - USANDO A FOR
+Vence 16 de maio de 2022 às 23:59
+Instruções
+Resolva todas as questões usando o FOR.
+
+Nível 1:
+
+1 - Faça um programa em C que imprima todos os números de 1 até 100.
+
+2 - Construa um programa em C que leia vários números e informe quantos números entre 100 e 200 foram digitados. Quando o valor 0 (zero) for lido, o algoritmo deverá cessar sua execução.
+
+Nível 2:
+
+3 - No dia da estréia do filme "Procurando Dory", uma grande emissora de TV realizou uma pesquisa logo após o encerramento do filme. Cada espectador respondeu a um questionário no qual constava sua idade e a sua opinião em relação ao filme: excelente - 3; bom - 2; regular - 1. Criar um programa que receba a idade e a opinião de 20 espectadores, calcule e imprima:
+
+• A média das idades das pessoas que responderam excelente;
+• A quantidade de pessoas que responderam regular;
+• A percentagem de pessoas que responderam bom entre todos os expectadores analisados.
+
+4 - Uma pousada estipulou o preço para a diária em R$30,00 e mais uma taxa de serviços diários de:
+• R$15,00, se o número de dias for menor que 10;
+• R$8,00, se o número de dias for maior ou igual a 10;
+
+Faça um programa que imprima o nome, a conta e o número da conta de cada cliente e ao final o total faturado pela pousada.
+O programa deverá ler novos clientes até que o usuário digite 0 (zero) como número da conta.
+
+Nível 3:
+
+5 - Uma transportadora utiliza caminhões que suportam até 10 toneladas de peso, as caixas transportadas tem tamanho fixo e o caminhão comporta no máximo 200 volumes, assim, esta transportadora precisa controlar a quantidade e o peso dos volumes para acomodar nos caminhões. Faça um programa que leia n caixas e seu peso, ao final, o programa deve imprimir a quantidade de volumes, o peso total dos volumes e o peso médio dos volumes.
+
+6 - Num frigorífico existem 90 bois. Cada boi traz preso em seu pescoço um cartão contendo seu número de identificação e seu peso. Faça um programa que imprima a identificação e o peso do boi mais gordo e do boi mais magro (supondo que não haja empates).
+
+7 - Faça um programa que calcule quantos litros de gasolina são usados em uma viagem, sabendo que um carro faz 10 km/litro. O usuário fornecerá a velocidade do carro e o período de tempo que viaja nesta velocidade para cada trecho do percurso. Então, usando as fórmulas distância = tempo x velocidade e litros consumidos = distância / 10, o programa computará, para todos os valores não-negativos de velocidade, os litros de combustível consumidos. O programa deverá imprimir a distância e o número de litros de combustível gastos naquele trecho. Deverá imprimir também o total de litros gastos na viagem. O programa encerra quando o usuário informar um valor negativo de velocidade.
+Meu trabalho
+
+Anexo
+
+Novo
+

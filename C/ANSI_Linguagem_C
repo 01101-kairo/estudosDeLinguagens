@@ -1,0 +1,42 @@
+* Palavras reservadas
+	~ A linguagem C e' "Case Sensitive", issto e', maiusculas e minusculas sao caracteres diferetes
+* Padrao ANSI da linguagem C, essas palavras tem significado para a linguagem C
+auto
+break
+cas
+char
+const
+continue
+default
+do
+double
+else
+enum
+extern
+float
+for
+goto
+if
+int
+long
+register
+return
+short
+signed
+sizeof
+statio
+struct
+switch
+typedef
+union
+unsigned
+void
+volatile
+while
+
+
+
+gets
+scanf
+printf
+man

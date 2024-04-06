@@ -33,7 +33,7 @@ def questao_a_ou_b(numero, numerador, end):
             print(numero, '+', new, '=', soma)
         numero = numero+numerador
         new = soma
-    print("resutado toral da soma: ", soma)
+    print("resutado toral da soma: ", new)
 
 
 def questao_c():
